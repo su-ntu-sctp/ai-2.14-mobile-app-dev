@@ -22,7 +22,7 @@ Timebox **2–3 hours** across these resources before the lesson. You do not nee
 
 **Read (10 min)**
 
-- [Expo: Introduction](https://docs.expo.dev/get-started/introduction/): Read the "What is Expo?" section and skim "Create your first app" so the setup commands in the lab are familiar.
+- [Expo: Create a project](https://docs.expo.dev/get-started/create-a-project/): Read the opening section explaining what Expo is, then skim the `create-expo-app` instructions so the setup commands in the lab are familiar.
 
 **Key idea to take away:** Expo is a managed framework that handles native toolchain configuration for you. The Expo Go app lets you preview your project on a real device instantly by scanning a QR code, without building or installing a native binary.
 
