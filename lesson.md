@@ -134,7 +134,7 @@ Download and install Android Studio from [developer.android.com/studio](https://
 
 During installation, make sure **Android Virtual Device (AVD)** is checked.
 
-<img src="./assets/images/checked-avd.png" alt="Android Studio installation screen with Android Virtual Device checked" />
+<img src="./assets/images/checked-avd.png" alt="Android Studio installation screen with Android Virtual Device checked" width=500 />
 
 **Check that Android API Level 36 is installed**
 
@@ -142,7 +142,7 @@ Open Android Studio. Go to **More Actions → SDK Manager**. Under the **SDK Pla
 
 > Expo SDK 54 targets API Level 36. Using a matching system image avoids version mismatch warnings when the emulator boots. See [Expo SDK 54 changelog](https://expo.dev/changelog/sdk-54) for the full list of supported versions.
 
-<img src="./assets/images/android-api-36.png" alt="Android Studio SDK Manager showing Android 16 (API Level 36) checked" />
+<img src="./assets/images/android-api-36.png" alt="Android Studio SDK Manager showing Android 16 (API Level 36) checked" width=700 />
 
 **Check that the required SDK Tools are installed**
 
@@ -157,7 +157,7 @@ Still in the **SDK Manager**, switch to the **SDK Tools** tab and confirm the fo
 
 Go to **More Actions → Virtual Device Manager** and click **Create device**. Choose a Pixel phone model that shows the Play Store icon, then select **Baklava (API 36)** as the system image. Leave the other settings as default and click **Finish**.
 
-<img src="./assets/images/add-virtual-device.png" alt="Android Studio Virtual Device Manager showing a Pixel phone with Baklava (API 36) selected" />
+<img src="./assets/images/add-virtual-device.png" alt="Android Studio Virtual Device Manager showing a Pixel phone with Baklava (API 36) selected" width=600 />
 
 **Set environment variables**
 
